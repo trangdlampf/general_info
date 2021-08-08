@@ -1,0 +1,40 @@
+Map Design API
+https://boards.greenhouse.io/mapbox/jobs/3317048?gh_jid=3317048 
+MTS Apps 
+https://boards.greenhouse.io/mapbox/jobs/3317039?gh_jid=3317039 
+Static API  
+
+Glassdoor says the work is interesting. They have new leadership. Perhaps invest in stocks so when they go public, you can sell it for more. If it's a good team, you're happy; if not, you're not. Has growing pains. Not so much financial unstable as managers are learning to be 
+Senior Software Engineer, Map Design API
+Remote - United States 
+
+Mapbox is building a live location platform. Our maps represent the ever-evolving world, accessing, aggregating, and adapting anonymous data from millions of sensors and phones in real-time. Mapbox has the exciting opportunity to power devices and products across the next frontier in location-based data. Whether you’re watching the delivery of your grocery order on Instacart, tracking your personal best mile on Strava, sending snaps on Snapchat, monitoring your gas budget on Metromile, or checking today’s forecast on The Weather Channel, Mapbox is the location and maps within those apps. We’re changing how people move by live-mapping the world.
+
+What We Do
+The Map Design API builds and maintains the applications and infrastructure responsible for creating and distributing Mapbox maps. Thousands of customers rely on our services to seamlessly handle billions of requests every day, scale in real-time to global events, and enable designers, developers, and analysts to make and share maps we’ve never dreamed of. Delivering maps means delivering a model of the world that’s changing all the time, and needs to automatically support the world’s edge cases – writing systems, fonts, local regulations, and global boundary disputes. 
+The Maps Design API maintains the highest-traffic read APIs at Mapbox and the distributed ETL pipelines used by internal and external customers to turn data into maps. We’re building new ways for people to visualize location data. 
+
+What You'll Do
+Mapbox is looking for a talented engineer to join our Maps org. You will be responsible for balancing rapid development of new mapping tools against the reliability of our services as they scale into new request volumes, markets, use cases. In a single week on the Maps Design API team, you might write application code robust to a world’s worth of data, debate the reuse of middleware across micro-services, diagnose complex system behavior as global markets drive traffic in unexpected ways, solicit feedback from customers on an API proposal, and help design the future of continuous delivery at Mapbox. 
+In this role, expect to: 
+•	Collaborate with customers to design the right products and features, and ensure that the team  is solving the right problems. Identify and scope out well-defined tasks for yourself and the team.
+•	Design systems and make decisions that will keep pace with the rapid growth of Mapbox’s customer base.
+•	Promote a culture of operational excellence by meticulously testing and monitoring our systems and code, writing documentation, and being on-call to support the health of our services.
+•	Reduce technical debt, share your knowledge, and invest in your teammates’ health and happiness, while optimizing application performance and accelerating feature velocity.
+•	Uphold a culture of collaboration, transparency, creativity, inclusion, and data-driven decisions.
+
+What We Believe are Important Traits for This Role
+•	3+ years of proven ability to design and develop sophisticated, innovative, efficient, and durable solutions to complex technology problems.
+•	An empirical analytical approach. You develop strong hypotheses, design experiments to test them, interpret the results, and clearly communicate your findings. 
+•	Autonomy, proactivity, and ownership around driving work to completion in the face of ambiguity.
+•	A desire to share your expertise through documentation, mentorship, and both written and verbal discussion.
+•	A personal drive to expand your comfort zone by exploring new and/or unfamiliar tasks.
+•	A desire to work with individuals with diverse backgrounds, perspectives, and experiences.
+•	Strong proficiency in a programming language, testing practices, and thorough documentation.
+•	Not required, but a plus: experience with our tech stack—node.js, AWS (ECS, CloudFormation, DynamoDB, and more) SQL, NoSQL, Docker, Redis. 
+What We Value
+In addition to our core values, which are not unique to this position and are necessary for Mapbox leaders:
+•	We value high-performing creative individuals who dig into problems and opportunities.
+•	We believe in individuals being their whole selves at work. We commit to this through supportive health care, parental leave, flexibility for the things that come up in life, and innovating on how we think about supporting our people.
+•	We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company.
+•	We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply.
